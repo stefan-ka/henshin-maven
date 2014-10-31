@@ -16,7 +16,7 @@ install first.  Furthermore, you need an account at
 Once these requirements are met, this is the procedure to create a new Henshin
 release and push it to [Clojars](http://clojars.org/henshin).
 
-1. Download the current Henshin release (`emf-xsd-SDK-x.y.z.zip`) from the
+1. Download the current Henshin release from the
 [Henshin Homepage](http://www.eclipse.org/henshin/).
 
 2. Adjust the version number in `project.clj` to match the Henshin release.

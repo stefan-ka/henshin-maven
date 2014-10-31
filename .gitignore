@@ -1,0 +1,4 @@
+henshin-jars/*
+henshin-jars/.options
+pom.xml
+target/

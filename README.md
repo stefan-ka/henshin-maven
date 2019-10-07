@@ -62,4 +62,4 @@ project's `henshin-jars` folder.
 That will create one single JAR containing all Henshin classes (docs are not included) and upload it to clojars.
 
 ## License
-Henshin is Distributed under the Eclipse Public License 1.0.
+Henshin is distributed under the Eclipse Public License 1.0.

@@ -1,7 +1,7 @@
-(defproject henshin "1.0.0"
-  :description "The Henshin Transformation Engine
+(defproject org.eclipse.emf.henshin/henshin-interpreter "1.4.0"
+  :description "The Henshin Interpreter
 (Inofficially repackaged for Maven)"
-  :url "https://github.com/tsdh/henshin-maven"
+  :url "https://github.com/stefan-ka/henshin-maven"
   ;; Where are the Henshin class files?
   :filespecs [{:type :path :path "henshin-jars"}]
   :license {:name "Eclipse Public License"
